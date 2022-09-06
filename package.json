@@ -2,7 +2,7 @@
   "name": "crypto-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Soron248.github.io/Crypto_Currency_Checker ",
+  "homepage": "https://Soron248.github.io/Crypto_Currency_Checker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
