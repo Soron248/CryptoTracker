@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto_Currency_Checker/static/css/main.c53ccf15.css",
+    "main.js": "/Crypto_Currency_Checker/static/js/main.7bbd85a3.js",
+    "index.html": "/Crypto_Currency_Checker/index.html",
+    "main.c53ccf15.css.map": "/Crypto_Currency_Checker/static/css/main.c53ccf15.css.map",
+    "main.7bbd85a3.js.map": "/Crypto_Currency_Checker/static/js/main.7bbd85a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53ccf15.css",
+    "static/js/main.7bbd85a3.js"
+  ]
+}
